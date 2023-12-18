@@ -1,0 +1,5 @@
+![Screenshot (410)](https://github.com/SanjitKumar49/SmartWeatherApp/assets/113637775/a3bbbc43-784f-4a32-b46b-61c1058eab13)
+![Screenshot (411)](https://github.com/SanjitKumar49/SmartWeatherApp/assets/113637775/ae9925ee-a531-4c90-becf-889684716549)
+![Screenshot (412)](https://github.com/SanjitKumar49/SmartWeatherApp/assets/113637775/fa3ef29b-0b60-4d2e-a47a-f1d379f54bf3)
+![Screenshot (413)](https://github.com/SanjitKumar49/SmartWeatherApp/assets/113637775/b1f43167-4795-4360-9e4d-98ded00b9218)
+![Screenshot (414)](https://github.com/SanjitKumar49/SmartWeatherApp/assets/113637775/80404b54-b62f-4887-8429-91cb0fa8c2da)
